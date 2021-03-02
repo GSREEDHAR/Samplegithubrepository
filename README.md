@@ -1,1 +1,2 @@
-# Samplegithubrepository
+# SampleSeleniumMavenJenkins
+Sample Selenium Maven Jenkins Project
